@@ -1,0 +1,6 @@
+[submodule "client-student-db"]
+	path = client-student-db
+	url = https://github.com/mass-gueye/client-student-db.git
+[submodule "server-student-db"]
+	path = server-student-db
+	url = https://github.com/mass-gueye/server-student-db.git
